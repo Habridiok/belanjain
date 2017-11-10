@@ -1,0 +1,23 @@
+nama: leather platform sandals
+harga: 999.900
+deskripsi:  Platform sandals in shimmering metallic leather with narrow straps with a decorative knot at the front. Adjustable, wraparound straps at the ankle and covered platform and heels. Leather insoles and rubber soles. Platform 4 cm, heel 13.5 cm
+
+nama: ballet pumps
+harga: 149.900
+dekripsi: Ballet pumps in imitation suede with a grosgrain trim at the top, satin linings and insoles and rubber soles.
+
+nama: casuals white shoes
+harga: 449.900
+deskripsi: Trainers with lacing at the front and a loop at the back. Cotton canvas linings and insoles and rubber soles.
+
+nama: evening sandals
+harga: 249.900
+deskripsi: Sandals with a covered heel, ankle strap with a metal buckle and elastication, imitation leather linings and insoles and rubber soles. Heel 8 cm.
+
+nama: oxford shoes
+harga: 449.000
+deskripsi: Oxford shoes in shimmering metallic imitation leather with closed lacing at the front, fabric linings and insoles and chunky rubber soles. Platform front approx. 3.5 cm, heel 5 cm.
+
+nama: slip-on canvas
+harga: 129.900
+deskripsi: Slip-on plimsolls in cotton canvas with elastic gores in the sides and a loop at the back. Cotton canvas linings and insoles and rubber soles

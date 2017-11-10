@@ -1,0 +1,11 @@
+nama: derby shoes
+harga: 499.900
+deskripsi: Derby shoes in imitation leather with open lacing and pointed toes. Fabric linings and insoles and rubber soles. Heel approx. 3 cm.
+
+nama: espadrilles
+harga: 299.900
+deskripsi: Espadrilles in canvas with a braided jute trim around the soles, closed lacing at the front, a loop at the back, fabric linings and insoles and rubber soles.
+
+nama: loafers
+harga: 339.000
+deskripsi: Loafers in imitation suede with moccasin seams, decorative laces, fabric linings and insoles and rubber soles.

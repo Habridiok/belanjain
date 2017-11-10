@@ -1,0 +1,15 @@
+nama: joggers
+harga: 109.000
+deskripsi: Joggers in light sweatshirt fabric with an elasticated drawstring waist and ribbed hems. Soft brushed inside
+
+nama: embroidered jeans
+harga: 499.900
+deskripsi: 5-pocket jeans in washed denim with embroidery, a high waist and slightly wider legs with cut-off, raw-edge hems.
+
+nama: lace pencil skirt
+harga: 399.000
+deskripsi: Calf-length, lace pencil skirt with grosgrain ribbon at the waist, a concealed zip and button at the side and a slit at the back. Lined.
+
+nama: short shorts
+harga: 99.000
+deskripsi: Short shorts in a viscose weave with an elasticated drawstring waist, side pockets and gently rounded hems with a small slit in the side.

@@ -1,0 +1,19 @@
+nama: biker joggers
+harga: 309.900
+deskripsi: Joggers in sweatshirt fabric with an elasticated drawstring waist, side and back pockets, decorative stitching and quilted sections on the legs and ribbed hems. Soft brushed inside.
+
+nama: cotton chinos
+harga: 399.000
+deskripsi: Chinos in airy cotton poplin with a zip fly and button, regular waist, side pockets, jetted back pockets and tapered legs.
+
+nama: linen city shorts
+harga: 349.900
+deskripsi: Shorts in a linen weave with a zip fly and button, side pockets and jetted back pockets with a button.
+
+nama: army shorts
+harga: 219.900
+deskripsi: Cargo shorts in washed cotton twill with a button fly, side pockets and flap leg and back pockets with a hook and loop fastener.
+
+nama: ripped jeans
+harga: 399.900
+deskripsi:5-pocket trousers in slightly stretchy washed twill with hard-worn details, a regular waist, button fly and skinny legs

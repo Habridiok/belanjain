@@ -1,0 +1,23 @@
+nama: birdies necklace
+harga: 129.000
+deskripsi: Three-strand thin metal chain necklace with birds. Adjustable length, 38-44 cm
+
+nama: clear sunglasses
+harga: 149.000
+deskripsi: Sunglasses with transparent plastic frames and UV-protective, tinted lenses
+
+nama: pink round sunglasses
+harga: 149.000
+deskripsi: Round sunglasses with metal and plastic frames and UV-protective, tinted lenses
+
+nama: straw hat
+harga: 139.000
+deskripsi: Hat in braided paper straw
+
+nama: headband flowers
+harga: 79.000
+deskripsi: Hairband of braided imitation suede with decorative fabric flowers and elastic at the back of the neck
+
+nama: flower clipers
+harga: 59.000
+deskripsi: Hair clips in metal with fabric flowers

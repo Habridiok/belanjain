@@ -1,0 +1,19 @@
+nama: baseball jacket
+harga: 899.000
+deskripsi: Twill baseball jacket in a boxy style with deep armholes, contrasting colour raglan sleeves and various appliqués. Press-studs down the front, side pockets and an inner pocket. Striped ribbing around the neckline, shoulders, cuffs and hem.
+
+nama: hooded top
+harga: 439.900
+deskripsi: Top in sweatshirt fabric with a drawstring hood, kangaroo pocket and ribbing at the cuffs and hem.
+
+nama: jacquard-weave jacket
+harga: 949.900
+deskripsi: Jacket in a jacquard-weave cotton blend in a slightly shorter, boxy fit with a ribbed stand-up collar and zip down the front. Zipped side pockets, elastication at the cuffs and hem and tape-trimmed inner seams. Unlined.
+
+nama: linen bomber jacket
+harga: 449.000
+deskripsi: Bomber jacket in linen with a ribbed stand-up collar and zip down the front. Flap side pockets with a press-stud and elasticated cuffs.
+
+nama: navy bomber jacket
+harga: 349.000
+deskripsi: Nylon bomber jacket with a stand-up collar, zip at the front, side pockets with a flap, a zipped sleeve pocket, one inner pocket and ribbing at the cuffs and hem. Jersey lining.

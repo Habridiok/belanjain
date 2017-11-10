@@ -1,0 +1,19 @@
+nama: Cap with applique
+harga: 179.000
+deskripsi: Cap in woven fabric with an appliqué on the front and adjustable plastic fastener at the back.
+
+nama: leather belt
+harga: 209.000
+deskripsi: Leather belt with an antiqued metal buckle.
+
+nama: patterned cotton cap
+harga: 149.900
+deskripsi: Cap in a patterned cotton weave with an appliqué at the front, contrasting colour peak and adjustable plastic fastener at the back.
+
+nama: round metal sunglasses
+harga: 149.000
+deskripsi: Sunglasses with metal and plastic frames and UV-protective, tinted lenses.
+
+nama: sunglasses
+harga: 149.000
+deskripsi: Sunglasses with plastic and metal frames and tinted, UV-protective lenses.

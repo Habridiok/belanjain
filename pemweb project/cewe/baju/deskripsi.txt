@@ -1,0 +1,27 @@
+nama: cropped top with laces
+harga: 179.000
+deskripsi:Short top in sturdy, ribbed jersey with short sleeves, a V-neck and sewn-in lacing at the front.
+
+nama: flower cropped top
+harga: 169.000
+deskripsi: Cropped top in jersey crêpe with a V-neck and sewn-in wrapover at the front. Short, butterfly sleeves, a cut-out section at the back and wide ties at the hem.
+
+nama: sweatshirt with lacing
+harga: 299.900
+deskripsi: Long-sleeved top in sweatshirt fabric with lacing at the sides and ribbing around the neckline, cuffs and hem. Soft brushed inside.
+
+nama: sweatshirt
+harga: 139.000
+deskripsi: Printed top in light cotton sweatshirt fabric with ribbing around the neckline, cuffs and hem
+
+nama: Jersey top with ruffles
+harga: 249.900
+deskripsi: Long-sleeved jersey top in a soft viscose blend with ruffles at the front that continue over the shoulders
+
+nama: Ruffled blouse
+harga: 399.900
+deskripsi:Straight blouse in a cotton weave with large ruffles at the top, a V-neck, concealed buttons down the front and long, wide sleeves with pleats and a button at the cuffs
+
+nama: short T-shirt
+harga: 99.000
+deskripsi: Short, wide T-shirt in cotton jersey.

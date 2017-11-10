@@ -1,0 +1,49 @@
+body{
+}
+#table_kategori{
+	font-weight: bold;
+	background-color: #21ff8833;
+}
+#table_kategori_border{
+	background-color: #21ff8833;
+}
+#kategori_a{
+	color: #7e858a;
+}
+#harga{
+	color: red;
+	border-color: white;
+}
+#judul_barang{
+color: black;
+}
+#penjual{
+	color: gray;
+	font-size: 12px;
+}
+#dagangin{
+	padding-top: 4px;
+}
+#navbar{
+	background-color: rgb(174, 235, 174);
+}
+#search{
+	background-color: rgb(19, 146, 216);
+}
+#dropdown_navbar{
+	background-color: rgb(174, 235, 174);
+}
+#isi_dropdown{
+	background-color: #21ff8833;
+}
+#header_form{
+	font-weight: bold;
+	color: gray;
+	font-size: 20px;
+}
+.form-group table button.btn-default{
+	width: 100%;
+}
+#atas{
+	padding-top: 15px;
+}

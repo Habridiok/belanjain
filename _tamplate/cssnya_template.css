@@ -1,0 +1,112 @@
+body{
+}
+#table_kategori{
+	font-weight: bold;
+	font-size: 25px;
+	color: rgb(19, 146, 216);
+	border-color: rgb(174, 235, 174);
+	padding-top: 15px;
+}
+#table_kategori_border{
+	padding-top: 35px;
+	background-color: #3ede881a;
+	border-color: rgb(19, 146, 216);
+	font-size: 18px;
+}
+#promo{
+	border:1px solid #ddd0;
+	color: white;
+}
+#kategori_a{
+	color: #7e858a;
+}
+
+#harga{
+	color: red;
+	border-color: white;
+}
+#judul_barang{
+color: gray;
+}
+#penjual{
+	background-color: #ebf54b1a;
+	color: orange;
+	font-size: 12px;
+}
+#dagangin{
+	padding-top: 4px;
+}
+#navbar{
+	background-color: rgb(174, 235, 174);
+}
+#search{
+	background-color: rgb(19, 146, 216);
+}
+#list{
+	border-color: gray;
+	padding-top: 15px;
+}
+#caption{
+	color: #083271;
+	font-weight: bold;
+	font-size: 17px;
+}
+#list_bergerak{
+	background-color: transparent;
+	padding-bottom: 75px;
+}
+#navbar_bawah{
+	padding-top: 35px;
+}
+#navbar2{
+	background-color: rgb(174, 235, 174);
+	padding-bottom: 0px;
+}
+.navbar-default{
+	background-color: rgb(174, 235, 174);
+}
+#copyright{
+	font-size: 10px;
+	color: gray;
+}
+#pagination{
+	color: black;
+	background-color: rgb(19, 146, 216);
+}
+
+#kategori1{
+	color: green;
+	padding-top: 40px;
+	padding-left: 25px;
+	padding-right: 25px;
+	font-size: 18px;
+	border-color: green;
+}
+#k1{
+	color: red;
+}
+
+
+
+
+#dropdown_navbar{
+	background-color: rgb(174, 235, 174);
+}
+#isi_dropdown{
+	background-color: #21ff8833;
+}
+#header_form{
+	font-weight: bold;
+	color: green;
+	font-size: 20px;
+}
+#daftar{
+	color: white;
+	background-color: green;
+	border-width: 0px 139px;
+	border-color: green;
+	font-size: 18px;
+}
+#atas{
+	padding-top: 50px;
+}

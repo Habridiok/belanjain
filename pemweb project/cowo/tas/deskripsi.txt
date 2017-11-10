@@ -1,0 +1,7 @@
+nama: defender rolltop backpack
+harga: 889.900
+deskripsi: Whether you’re taking a hike or heading to the office, our Defender in waxed cotton canvas boasts a unique rolltop design with an adjustable, leather cinch strap for extra durability.
+
+nama: estate backpack
+harga: 699.900
+deskripsi: The Estate Backpack is a spring essential that makes looking polished easy. With modern functionality, like a padded laptop compartment, and Fossil's classic understated style in rich navy leather, it’s sure to be your new go-to day bag.

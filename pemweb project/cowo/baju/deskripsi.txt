@@ -1,0 +1,23 @@
+nama: flame shirt
+harga: 89.000
+deskripsi: T-shirt in printed cotton jersey with a chest pocket and sewn-in turn-ups on the sleeves.
+
+nama: classic denim shirt
+harga: 139.000
+deskripsi: Short-sleeved denim shirt with a turn-down collar and a chest pocket. Yoke at the back and slits in the sides.
+
+nama: cotton polo shirt
+harga: 149.000
+deskripsi:Short-sleeved polo shirt in stretch, cotton-blend jersey with a collar and button placket.
+
+nama: pattern shirt
+harga: 289.000
+deskripsi: Shirt in a woven cotton blend with a resort collar, French front, short sleeves with sewn-in turn-ups and a straight hem. Regular fit – a classic fit with good room for movement and a gently shaped waist to create a comfortable, tailored silhouette.
+
+nama: polkadot shirt
+harga: 249.000
+deskripsi: Short-sleeved shirt in premium cotton with a spot print and turn-down collar. 
+
+nama: tribal shirt
+harga: 89.000
+deskripsi:T-shirt in printed cotton jersey with a chest pocket and sewn-in turn-ups on the sleeves.

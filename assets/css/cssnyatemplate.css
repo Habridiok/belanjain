@@ -1,0 +1,192 @@
+	body{
+	}
+	#table_kategori{
+		font-weight: bold;
+		font-size: 23px;
+		color: rgb(19, 146, 216);
+		border-color: rgb(174, 235, 174);
+		padding-top: 0px;
+	}
+	#table_kategori_border{
+		padding-top: 30px;
+		background-color: #3ede881a;
+		border-color: rgb(19, 146, 216);
+		font-size: 15px;
+	}
+	#promo{
+		border:transparent;
+		color: transparent;
+		background-color: transparent;
+	}
+	#kategori_a{
+		color: #7e858a;
+	}
+
+	#harga{
+		color: red;
+		border-color: white;
+	}
+	#judul_barang{
+	color: gray;
+	}
+	#penjual{
+		background-color: #ebf54b1a;
+		color: orange;
+		font-size: 12px;
+	}
+	#dagangin{
+		padding-top: 4px;
+	}
+	#navbar{
+		background-color: rgb(174, 235, 174);
+	}
+	#search{
+		background-color: rgb(19, 146, 216);
+	}
+	#caption{
+		color: #083271;
+		font-weight: bold;
+		font-size: 17px;
+	}
+	#list_bergerak{
+		background-color: transparent;
+		padding-bottom: 75px;
+	}
+	#navbar_bawah{
+		padding-top: 35px;
+	}
+	#navbar2{
+		background-color: rgb(174, 235, 174);
+		padding-bottom: 0px;
+	}
+	.navbar-default{
+		background-color: rgb(174, 235, 174);
+	}
+	#copyright{
+		font-size: 10px;
+		color: gray;
+	}
+	#pagination{
+		color: black;
+		background-color: rgb(19, 146, 216);
+	}
+
+	#kategori1{
+		color: green;
+		padding-top: 40px;
+		padding-left: 25px;
+		padding-right: 25px;
+		font-size: 18px;
+		border-color: green;
+	}
+	#k1{
+		color: red;
+	}
+	#bodinya{
+		background-color: #c8b9b933;
+	}
+	#table-baju{
+		background-color: transparent;
+	}
+
+	#sudahLogin{
+		color: green;
+		font-weight: bold;
+		font-size: 16px;
+		padding-top: 30px;
+	}
+
+
+	#dropdown_navbar{
+		background-color: rgb(174, 235, 174);
+	}
+	#isi_dropdown{
+		background-color: rgb(99, 230, 147);}
+			#header_form{
+		font-weight: bold;
+		color: green;
+		font-size: 20px;
+	}
+	#daftar{
+		color: white;
+		background-color: green;
+		border-width: 0px 139px;
+		border-color: green;
+		font-size: 18px;
+	}
+	#atas{
+		padding-top: 50px;
+	}
+	#dashboard{
+		background-color: #82e0c84d;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	#dd{
+		padding-top: 40px;
+		padding-bottom: 170px;
+	}
+	#tulisdd{
+		background-color: rgb(19, 146, 216);
+		font-size: 22px;
+		font-weight: bold;
+	}
+	#tulisda{
+		color: orange;
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	#tulisan{
+		font-size: 18px;
+		font-weight: bold;
+		color: white;
+		background-color: #40c876b3;
+	}
+	#dbatas{
+		padding-top: 30px;
+	}
+	#foto{
+		padding-bottom: 25px;
+	}
+	#dashboardMember{
+		background-color:#57e4c080;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	
+	#namaMember{
+		font-size: 18px;
+		font-weight: bold;
+		color: black;
+	}
+	#navbarAdmin{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	#plusMember{
+		background-color: orange;
+	}
+	#edit{
+		background-color:rgb(19, 146, 216);
+		font-weight: bold;
+	}
+	#delete{
+		background-color: red;
+		font-weight: bold;
+	}
+	#tableMember{
+		padding-top: 45px;
+	}
+	#tulisanTable{
+		font-size: 18px;
+		font-weight: bold;
+		color: green;
+	}
+	#verified{
+		font-weight: bold;
+		background-color: orange;
+	}
+	#unverified{
+		font-weight: bold;
+	}

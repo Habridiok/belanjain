@@ -1,0 +1,11 @@
+nama: black shoulder bag
+harga: 139.000
+deskripsi: large imitation leather with two handles at the top and a detachable, adjustable shoulder strap. Magnetic fastener and zipped inner compartment. Unlined. Size 13.5x40x40 cm.
+
+nama: pouch
+harga: 49.900
+deskripsi: Small pouch bag in imitation patent leather with a zip at the top. Size 5x6x8 cm.
+
+nama: shopper
+harga: 109.000
+deskripsi: Shopper in paper straw with two imitation leather handles and a zip at the top. Two smaller inner compartments. Lined. Size 13x35x52 cm.

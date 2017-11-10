@@ -1,0 +1,27 @@
+nama: short lace dress
+harga: 899.000
+deskripsi: Short, fitted lace dress in a narrow cut at the top with narrow shoulder straps and a button at the back of the neck. Deep opening at the back, seam at the waist and contrasting colour lining.
+
+nama: cotton wrap dress
+harga: 499.900
+deskripsi: Knee-length wrap dress in a cotton weave. Collar, V-neck, tie around the waist, concealed press-stud at the front and a rounded hem
+
+nama: crepe dress
+harga: 599.000
+deskripsi: Short-sleeved off-the-shoulder dress in a crêpe weave with narrow shoulder straps and a silicone trim around the top. Concealed zip at the back, seam at the waist with pockets in the side seams and a bell-shaped skirt. Unlined.
+
+nama: jumpsuit with a flounce
+harga: 799.900
+deskripsi: Ankle length jumpsuit in a crêpe weave with a wide flounce with a silicone trim at the top that continues over the arms. Thin shoulder straps, concealed zip at the back and seam at the waist with wide legs and creases. Lined at the top.
+
+nama: off-the-shoulder dress
+harga: 299.000
+deskripsi: CONSCIOUS. Short, off-the-shoulder dress in an airy viscose weave with narrow adjustable shoulder straps and elastication and a silicone trim at the top. Long sleeves with a drawstring at the elbows and narrow elastication at the cuffs. Smocking at the waist and a flared skirt. Lined. The dress is made partly from recycled polyester.
+
+nama: off-the-shoulder jumpsuit
+harga: 499.000
+deskripsi: Off-the-shoulder jumpsuit in a stripe cotton weave with narrow adjustable shoulder straps and a wide flounce at the top. Opening at the back with a button at the back of the neck. Narrow, elasticated seam at the waist, side pockets and tapered legs. Loose fit.
+
+nama: satin jumpsuit
+harga: 349.900
+deskripsi: Sleeveless, backless satin jumpsuit with narrow, adjustable shoulder straps that cross at the back. Concealed zip in the side and wide legs. Lined.
